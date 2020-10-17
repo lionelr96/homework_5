@@ -229,8 +229,14 @@ a:focus {
 		/*Your code here again.*/
 		display: flex;
 		flex-direction: row;
-		justify-content: space-around;
+		justify-content: space-evenly;
 	}
+
+	/* .pricing {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+	} */
 
 	.nav_links {
 		/*Your code here again.*/
