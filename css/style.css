@@ -98,7 +98,7 @@ footer {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-items: stretch;
+	align-items: center;
 	flex-wrap: wrap;
 	width: 400px;
 	margin-left: auto;
@@ -228,7 +228,8 @@ a:focus {
 	header {
 		/*Your code here again.*/
 		display: flex;
-		flex-direction: column;
+		flex-direction: row;
+		justify-content: center;
 	}
 
 	.nav_links {
