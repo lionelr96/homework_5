@@ -113,9 +113,9 @@ footer {
 	/*Your code here.*/
 	/*Take a look at flex-basis*/
 	/* display: flex; */
-	flex-direction: column;
 	flex-basis: 400px;
-	justify-content: flex-end;
+	flex-direction: column;
+	/* justify-content: flex-end; */
 }
 
 .card>header {
