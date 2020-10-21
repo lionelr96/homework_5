@@ -229,7 +229,7 @@ a:focus {
 		/*Your code here again.*/
 		display: flex;
 		flex-direction: row;
-		justify-content: space-evenly;
+		justify-content: flex-between;
 	}
 
 	/* .pricing {
@@ -288,4 +288,5 @@ a:focus {
 		margin-left: auto;
 		margin-right: auto;
 	}
+	
 }
