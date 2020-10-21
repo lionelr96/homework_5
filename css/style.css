@@ -276,12 +276,7 @@ a:focus {
 
 @media (prefers-reduced-motion: reduce) {
 	#logo {
-		display: flex;
-		flex-direction: row;
-		justify-content: center;
-		align-items: flex-start;
-		margin-left: auto;
-		margin-right: auto;
+		animation-name: disable;
 	}
 	
 }
